@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ceafive/react-safe-deposit-box/static/css/main.14fa5d8e.css",
-    "main.js": "/ceafive/react-safe-deposit-box/static/js/main.625f2eb7.js",
-    "index.html": "/ceafive/react-safe-deposit-box/index.html",
-    "main.14fa5d8e.css.map": "/ceafive/react-safe-deposit-box/static/css/main.14fa5d8e.css.map",
-    "main.625f2eb7.js.map": "/ceafive/react-safe-deposit-box/static/js/main.625f2eb7.js.map"
+    "main.css": "/static/css/main.14fa5d8e.css",
+    "main.js": "/static/js/main.625f2eb7.js",
+    "index.html": "/index.html",
+    "main.14fa5d8e.css.map": "/static/css/main.14fa5d8e.css.map",
+    "main.625f2eb7.js.map": "/static/js/main.625f2eb7.js.map"
   },
   "entrypoints": [
     "static/css/main.14fa5d8e.css",
